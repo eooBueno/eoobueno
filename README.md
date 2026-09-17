@@ -84,4 +84,3 @@
 
 ## Como falar comigo
 - [Linkedin](https://www.linkedin.com/in/guilherme-bueno-4084b9352/)
-- [GitHub](https://github.com/eooBueno)
